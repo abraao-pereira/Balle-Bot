@@ -1,2 +1,0 @@
-# Balle-Bot
- Primeiro repositório
